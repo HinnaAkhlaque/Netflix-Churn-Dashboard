@@ -46,6 +46,7 @@ Some genres (like Romance or Drama) are more popular among female users, while g
 
 
 6. **Dashboard Preview**:
+   https://github.com/HinnaAkhlaque/Netflix-Churn-Dashboard/blob/main/Snapshot%20of%20dashboard.png
    
 
   	
