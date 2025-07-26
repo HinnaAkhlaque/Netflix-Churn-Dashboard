@@ -6,6 +6,13 @@
 2. **Purpose of this Project**:
    
   The goal of this dashboard is to help stakeholders identify key factors influencing customer retention and revenue. By analyzing metrics like churn rate by region, watch hours by age group, and payment method preferences, this tool supports data-driven decisions for improving user engagement and minimizing churn.
+In this dataset:
+churned = 0 means the customer has not churned
+(i.e., they are still active/subscribed)
+And:
+churned = 1 means the customer has churned
+(i.e., they left or unsubscribed)
+
 
 3. **Tech Stack**:
    
